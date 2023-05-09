@@ -8,12 +8,13 @@ import {getFirestore} from "firebase/firestore";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyBBIIzo-wcsBm331fjU6Mp8vnd-jjtvP34",
-  authDomain: "instafood-ee592.firebaseapp.com",
-  projectId: "instafood-ee592",
-  storageBucket: "instafood-ee592.appspot.com",
-  messagingSenderId: "928614056670",
-  appId: "1:928614056670:web:f80c780b864e2fd1fc784f"
+  apiKey: "AIzaSyBCi8nMHcehenVfhvozcfk_PLEFPXg-oNc",
+  authDomain: "instafood-e3577.firebaseapp.com",
+  projectId: "instafood-e3577",
+  storageBucket: "instafood-e3577.appspot.com",
+  messagingSenderId: "1037932406883",
+  appId: "1:1037932406883:web:988329b4231ef01f8eb056",
+  measurementId: "G-38RXCRXQC4"
 };
 
 // Initialize Firebase
